@@ -26,6 +26,7 @@
         android:layout_width="100dp"
         android:layout_height="20dp"
         android:layout_marginTop="16dp"
+        android:contentDescription="@string/logo_swoosh"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/imageView"
