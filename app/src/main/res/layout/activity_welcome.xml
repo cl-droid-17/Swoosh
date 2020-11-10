@@ -37,9 +37,10 @@
         android:layout_width="259dp"
         android:layout_height="47dp"
         android:layout_marginTop="116dp"
+        android:contentDescription="@string/TexteGoAllin"
         android:fontFamily="@font/montserrat"
         android:gravity="center"
-        android:text="GO ALL IN"
+        android:text="@string/go_all_in"
         android:textColor="@color/white"
         android:textSize="36sp"
         android:typeface="normal"
@@ -53,7 +54,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/montserrat"
-        android:text="ON GOING ALL OUT"
+        android:text="@string/on_going_all_out"
         android:textColor="@color/white"
         android:textSize="18sp"
         android:textStyle="bold"
@@ -69,7 +70,7 @@
         android:fontFamily="@font/montserrat"
         android:gravity="center_horizontal"
         android:singleLine="false"
-        android:text="Find a team in you city and dominate the league"
+        android:text="@string/find_a_team_in_you_city_and_dominate_the_league"
         android:textColor="@color/white"
         android:textSize="12sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -77,11 +78,11 @@
         app:layout_constraintTop_toBottomOf="@+id/textView2" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/getStartedBtn"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:background="@drawable/swoosh_button"
-        android:text="GET STARTED"
+        android:text="@string/get_started"
         app:layout_constraintBottom_toBottomOf="@+id/imageView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
