@@ -1,10 +1,9 @@
-package com.example.swoosh
+package com.example.swoosh.Controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 //import android.content.ContentValues.TAG   // pas besoin si val TAG defini ds classe
 import android.util.Log
-import java.util.function.LongFunction
 
 open class BaseActivity : AppCompatActivity() {
 

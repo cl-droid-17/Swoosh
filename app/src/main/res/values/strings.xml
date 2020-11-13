@@ -19,12 +19,13 @@
     <string name="get_started">GET STARTED</string>
     <string name="TexteGoAllin">Premiere ligne titre</string>
     <string name="i_am_a">I am a:</string>
-    <string name="biginner">BIGINNER</string>
-    <string name="beginer">BEGINNER</string>
     <string name="beginner">BEGINNER</string>
     <string name="baler">BALLER</string>
     <string name="balller">BALLER</string>
     <string name="baller">BALLER</string>
     <string name="finish">FINISH</string>
+    <string name="search_league">Looking for a co-ed beginner league near you</string>
+    <string name="beginner_toggle">beginner_toggle</string>
+    <string name="baller_toggle">baller_toggle</string>
 
 </resources>
